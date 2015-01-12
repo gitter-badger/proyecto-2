@@ -1,5 +1,6 @@
 .DS_Store
 .nodemonignore
+.codio
 .sass-cache/
 npm-debug.log
 node_modules/
